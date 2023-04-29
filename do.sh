@@ -1,2 +1,2 @@
-g++ -g main.cpp
+g++ -g tutor6.cpp
 ./a.out < test.txt
