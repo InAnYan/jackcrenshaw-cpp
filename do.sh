@@ -1,2 +1,2 @@
-clang++ main.cpp
+g++ -g main.cpp
 ./a.out < test.txt
